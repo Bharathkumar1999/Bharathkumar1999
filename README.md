@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bharath Kumar
 
--
+--
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -23,7 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :Connect with Me :
+### Connect with Me :
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/bharath-kumar-s-d-a47807252/">
