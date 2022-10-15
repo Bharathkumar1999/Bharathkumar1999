@@ -1,6 +1,11 @@
 ### Hi there 👋 I'm Bharath Kumar
 
 ---
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
 
 ### :man_technologist: About Me :
 
@@ -18,10 +23,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-
-
-
-
 ### :Connect with Me :
 
 <div id="badges">
@@ -33,11 +34,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
 
 
 ### :hammer_and_wrench: Languages and Tools :
