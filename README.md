@@ -15,7 +15,7 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
 - 🌱 I’m currently learning Redux, Node JS, MongoDB , Express JS, Data Structure and Algorithm
 - 💬 Ask me about ...HTML,CSS ,JavaScript, React, Chakra-ui, Data Structure and Algorithm
 - 📫 How to reach me: bharathabdeviellers@gmail.com
-- ⚡ My Goal: Never Stop Learning
+- ⚡ My Motto: Never Stop Learning
 
 
 ---
