@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Bharath Kumar
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 
 <div id="badges">
@@ -55,10 +55,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-Bharathkumar1999
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Bharathkumar1999&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Bharathkumar1999)](https://github.com/Bharathkumar1999/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Bharathkumar1999&layout=compact&theme=vision-friendly-dark)](https://github.com/Bharathkumar1999/github-readme-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=Bharathkumar1999
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bharathkumar1999&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathkumar1999)](https://github.com/Bharathkumar1999/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathkumar1999&layout=compact&theme=vision-friendly-dark)](https://github.com/Bharathkumar1999/github-readme-stats)
 
 
 <!--
