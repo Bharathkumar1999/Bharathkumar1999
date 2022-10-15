@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Bharath Kumar
 
---
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
--
+
 
 ### :man_technologist: About Me :
 
@@ -15,7 +15,7 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
 - 🌱 I’m currently learning Redux, Node JS, MongoDB , Express JS, Data Structure and Algorithm
 - 💬 Ask me about ...HTML,CSS ,JavaScript, React, Chakra-ui, Data Structure and Algorithm
 - 📫 How to reach me: bharathabdeviellers@gmail.com
-- - ⚡ Fun fact: Never Stop Learning
+- ⚡ My Goal: Never Stop Learning
 
 
 ---
