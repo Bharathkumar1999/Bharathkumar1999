@@ -11,15 +11,12 @@
 
 I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 🔭 I’m currently working on improving my skills.
+- 🌱 I’m currently learning Redux, Node JS, MongoDB , Express JS, Data Structure and Algorithm
+- 💬 Ask me about ...HTML,CSS ,JavaScript, React, Chakra-ui, Data Structure and Algorithm
+- 📫 How to reach me: bharathabdeviellers@gmail.com
+- - ⚡ Fun fact: Never Stop Learning
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-kumar-s-d-a47807252/)
 
 ---
 
@@ -34,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
 </div>
 
-
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -72,7 +69,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ...HTML,CSS ,JavaScript, React, Chakra-ui, Data Structure and Algorithm
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
