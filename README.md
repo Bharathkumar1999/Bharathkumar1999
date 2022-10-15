@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Bharath Kumar
 
-I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
+### I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width=30px height=100px />
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100" />
 </div>
 
 <div id="badges">
@@ -53,8 +53,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-
-https://github-readme-streak-stats.herokuapp.com/?user=Bharathkumar1999
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bharathkumar1999&theme=dark&background=000000)](https://git.io/streak-stats)
 
