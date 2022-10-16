@@ -16,7 +16,7 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
 - 💬 Ask me about HTML,CSS ,JavaScript, React, Chakra-ui, Data Structure and Algorithm
 - 📫 How to reach me: bharathabdeviellers@gmail.com
 - ⚡ My Motto: Never Stop Learning
-- ### :man_technologist: My Projects Available at https://bharathkumar1999.github.io/
+- man_technologist: My Projects Available at https://bharathkumar1999.github.io/
 
 
 ---
