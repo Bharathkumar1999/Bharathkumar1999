@@ -12,11 +12,10 @@
 I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
 
 - 🔭 I’m currently working on improving my skills.
-- 🌱 I’m currently learning Redux, Node JS, MongoDB , Express JS, Data Structure and Algorithm
-- 💬 Ask me about HTML,CSS ,JavaScript, React, Chakra-ui, Data Structure and Algorithm
+- 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me: bharathabdeviellers@gmail.com
 - ⚡ My Motto: Never Stop Learning
-- :man_technologist: My Projects Available at https://bharathkumar1999.github.io/
+- :man_technologist: My Portfolio: https://bharathkumar1999.github.io/
 
 
 ---
