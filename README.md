@@ -23,7 +23,7 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
 ### Connect with Me :
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/bharath-kumar-s-d-a47807252/">
+  <a href="https://www.linkedin.com/in/bharath-kumar-a47807252/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://codesandbox.io/dashboard/recent?workspace=f32f0c30-606e-45d0-b22f-3c3a2a292d6d">
