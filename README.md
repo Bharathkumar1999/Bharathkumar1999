@@ -60,7 +60,6 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathkumar1999&layout=compact&theme=vision-friendly-dark)](https://github.com/Bharathkumar1999/github-readme-stats)
 
 
-
 <!--
 **Bharathkumar1999/Bharathkumar1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
